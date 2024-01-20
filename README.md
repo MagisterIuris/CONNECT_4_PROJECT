@@ -7,4 +7,4 @@ This project, developed last year, focuses on creating an artificial intelligenc
 - Connect 4 AI with three difficulty levels.
 - Implementation based on the Minimax algorithm.
 
-##Enjoy your visit !
+## Enjoy your visit !
